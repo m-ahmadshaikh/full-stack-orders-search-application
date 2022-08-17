@@ -1,0 +1,6 @@
+#requirements.txt
+
+gunicorn
+flask
+flask_sqlalchemy
+psycopg2
